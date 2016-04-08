@@ -1,0 +1,16 @@
+export const ADD_TODO = 'ADD_TODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const EDIT_TODO = 'EDIT_TODO'
+export const COMPLETE_TODO = 'COMPLETE_TODO'
+export const COMPLETE_ALL = 'COMPLETE_ALL'
+export const CLEAR_COMPLETED = 'CLEAR_COMPLETED'
+
+
+export const INCREASE = 'INCREASE'
+export const DECREASE = 'DECREASE'
+
+export const REQUEST_MENU = 'REQUEST_MENU' //
+export const RECEIVE_MENU = 'RECEIVE_MENU'
+//export const SELECT_SUBREDDIT = 'SELECT_SUBREDDIT'
+//export const INVALIDATE_SUBREDDIT  = 'INVALIDATE_SUBREDDIT '
+
